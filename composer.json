@@ -1,5 +1,5 @@
 {
-    "name": "dhl/module-carrier-update",
+    "name": "mediarox/module-carrier-update",
     "version": "1.2.0",
     "type": "magento2-module",
     "description": "Optional component to assign incoming orders to the DHL Paket carrier.",
