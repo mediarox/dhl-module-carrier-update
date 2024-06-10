@@ -37,7 +37,7 @@
         "branch-alias": {
             "dev-DHLGW-1172": "1.1.x-dev"
         }
-    }
+    },
     "replace": {
         "dhl/module-carrier-update":"1.2.0"
     }
